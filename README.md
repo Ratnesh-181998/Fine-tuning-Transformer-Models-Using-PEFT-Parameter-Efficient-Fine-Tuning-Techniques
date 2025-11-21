@@ -1,5 +1,5 @@
 Fine-tuning Transformer Models Using PEFT (Parameter-Efficient Fine-Tuning) Techniques
-
+https://colab.research.google.com/drive/1iyhhuPBjBRyoWq-7PJbn_HDFazH5GCo4?usp=sharing
 
 This notebook is part of a broader study on Parameter-Efficient Fine-Tuning (PEFT) methods. For a detailed explanation of the concepts and techniques covered here, check out:
 
